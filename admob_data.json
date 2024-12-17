@@ -1,0 +1,11 @@
+{
+  "array": {
+    "banner_key": "ca-app-pub-9600383135581620/9868932993",
+    "native_key": "ca-app-pub-9600383135581620/98689329345",
+    "inter_splash_key": "ca-app-pub-9600383135581620/9868932890",
+    "reward_key": "ca-app-pub-9600383135581620/9868931267",
+    "app_open_key": "ca-app-pub-9600383135581620/9868932098"
+  },
+  "inter_splash": "",
+  "splash_show": 10
+}
