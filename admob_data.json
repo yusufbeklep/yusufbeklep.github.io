@@ -6,7 +6,7 @@
     "reward_key": "ca-app-pub-9600383135581620/9868931267",
     "app_open_key": "ca-app-pub-9600383135581620/9868932098"
   },
-  "inter_splash": "admob",
+  "inter_splash": "applovin",
   "splash_show": 10,
   "admob_data_load":"456"
 }
